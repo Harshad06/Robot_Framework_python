@@ -24,6 +24,7 @@
     The modular architecture supports creating tests even for applications with several diverse interfaces.
 
 # 1.2   High-level architecture
-Robot Framework is a generic, application and technology independent framework. It has a highly modular architecture.
+        Robot Framework is a generic, application and technology independent framework. 
+        It has a highly modular architecture.
 
 
