@@ -1,0 +1,24 @@
+
+Robot Framework Beginner Tutorial 8 | Variables
+
+How to create & use Variables 
+in Robot Framework
+Eclipse (RED robot editor)
+
+Variables are elements that are used to store values which can be referred by other elements.
+
+name=Harshad
+
+
+SCALAR 
+${variable_name}
+
+LIST
+@{variable_name}  item1  item2  ….
+
+DICTIONARY
+&{variable_name}  K1=V1 K2=V2 …..
+
+ENVIRONMENT
+
+BUILT-IN

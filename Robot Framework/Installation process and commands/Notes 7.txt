@@ -1,0 +1,9 @@
+
+Robot Framework Beginner Tutorial 7 | Sample Selenium Login Test
+
+How to create login test with Selenium
+in Robot Framework
+Eclipse (RED robot editor)
+
+https://opensource-demo.orangehrmlive.com/
+https://orangehrm-demo-6x.orangehrmlive.com/auth/login

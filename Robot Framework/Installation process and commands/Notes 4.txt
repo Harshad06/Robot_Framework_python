@@ -1,0 +1,11 @@
+
+Robot Framework Beginner Tutorial 4
+
+How to create a new Robot Project
+Eclipse (RED robot editor)
+
+Step 1 : Eclipse - Windows - Perspective - Open Perspective - Robot
+
+Step 2 : New - Robot project
+
+Step 3 : Create new TestSuites

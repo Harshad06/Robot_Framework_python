@@ -1,0 +1,10 @@
+
+Robot Framework Beginner Tutorial 5
+
+How to create the first test in Robot Framework
+Eclipse (RED robot editor)
+      
+Step 1: Check robot framework is installed
+
+Step 2: Eclipse - Robot project 
+    New Test Suite

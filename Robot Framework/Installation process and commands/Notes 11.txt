@@ -1,0 +1,27 @@
+
+Robot Framework Beginner Tutorial 11 | TAGS
+
+How to use TAGS in Robot Framework
+Eclipse (RED robot editor)
+
+How to set tags
+How to remove tags
+How to filter tests with tags
+How to run tests with tags
+
+How to set tags from cmd
+
+Step 1 : Goto cmd
+    CD to the location of your project folder
+
+Step 2 : Run command
+    robot -t TestName TestSuite
+
+Step 3 : add flag to set tags
+    --settag=tagname
+
+Step 4 : Run tests with tags
+    --include
+
+Step 5 : Run tests with excluding tags
+    --exclude

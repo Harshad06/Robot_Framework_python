@@ -1,0 +1,17 @@
+
+Robot Framework Beginner Tutorial 9 | Keywords
+
+How to create & use Keywords 
+in Robot Framework
+Eclipse (RED robot editor)
+
+What are keywords
+Types of keywords
+How to create keywords
+How to use keywords
+
+LIBRARY       USER
+
+Use
+- Can re-use the steps
+- Manage changes, faster and efficient

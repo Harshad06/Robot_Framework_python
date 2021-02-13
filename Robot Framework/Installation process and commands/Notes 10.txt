@@ -1,0 +1,14 @@
+
+Robot Framework Beginner Tutorial 10 | Setup And Teardown
+
+How to use SETUP & TEARDOWN 
+in Robot Framework
+Eclipse (RED robot editor)
+
+TC SetUp - will run before every TC
+
+TC Teardown - will run after every TC
+
+TS Setup  - will run before TS
+
+TS Teardown - will run after TS

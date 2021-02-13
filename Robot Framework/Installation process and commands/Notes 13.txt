@@ -1,0 +1,17 @@
+
+Robot Framework Beginner Tutorial 13 | GIT
+
+How to add Robot Project on Git
+Version Control System
+
+Step 1 : Create an account on GitHub
+
+Step 2 : Sign In and create a new repository
+
+Step 3 : Eclipse - Git Perspective
+
+Step 4 : Clone Repository
+
+Step 5 : Project - Team - Share Project
+
+Step 6 : Commit & Push

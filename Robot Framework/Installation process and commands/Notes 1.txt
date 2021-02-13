@@ -1,0 +1,40 @@
+
+Robot Framework Beginner Tutorial 1 
+What is Robot Framework
+How to install Robot Framework
+
+- python based test automation framework
+- used keyword driven testing approach
+
+Open Browser   url     chrome
+Input Text    id     abcd
+Close Browser
+
+
+Step 1 : Check if python is installed on your system
+    python --version
+    pip --version
+
+How to install Python on Windows
+How to install Python on MacOS
+
+
+Step 2 : Install robot framework
+   
+   pip install robotframework
+
+   pip uninstall robotframework
+ 
+   pip install --no-cache-dir robotframework
+
+   pip install --upgrade robotframework
+
+   pip install robotframework==2.9.2
+
+
+Step 3 : Check robot framework is installed properly
+
+   pip freeze
+   pip list
+   pip show robotframework
+   pip check robotframework

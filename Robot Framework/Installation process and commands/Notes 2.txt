@@ -1,0 +1,23 @@
+
+Robot Framework Beginner Tutorial 2 
+
+DE for Robot Framework: 
+integrated development environment
+
+RIDE
+PyCharm
+TextMate
+Eclipse
+
+How to install & setup Eclipse
+
+Step 1  : Download eclipse
+    
+	https://www.eclipse.org/downloads/​
+
+
+Step 2 : Install eclipse
+
+	RED - Robot Editor
+	https://github.com/nokia/RED​
+	http://nokia.github.io/RED/help/​

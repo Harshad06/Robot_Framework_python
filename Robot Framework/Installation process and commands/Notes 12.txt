@@ -1,0 +1,17 @@
+
+Robot Framework Beginner Tutorial 12 | How to run from CommandLine
+
+How to run from the command line
+
+Step 1: Goto cmd
+   cd to the project folder
+
+Step 2: Run command
+    robot -t TestName TestSuiteName
+
+   single test
+   multiple tests
+   all the tests in the test suite
+   run tests based on tags
+   --include 
+   --exclude

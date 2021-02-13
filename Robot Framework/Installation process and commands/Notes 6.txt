@@ -1,0 +1,19 @@
+
+Robot Framework Beginner Tutorial 6
+
+How to create first Selenium test
+in Robot Framework
+Eclipse (RED robot editor)
+
+Step 1 : Install robot framework selenium lib
+	https://github.com/robotframework/SeleniumLibrary/​
+
+	pip install --upgrade robotframework-seleniumlibrary
+
+Step 2 : Eclipse  - Create a robot project
+    Create a test suite
+    Create test case
+
+Step 3 : Add SeleniumLibrary in TestSuite
+
+Step 4 : Create a selenium test case and add steps

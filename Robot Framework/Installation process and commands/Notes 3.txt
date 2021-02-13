@@ -1,0 +1,20 @@
+
+Robot Framework Beginner Tutorial 3
+
+How to install RED robot editor on Eclipse-
+
+Step 1 : Open Eclipse
+
+Step 2 : Help / Eclipse Marketplace
+
+Step 3 : Search for RED robot editor
+
+Step 4 : Install & restart Eclipse
+
+Env Setup
+
+RED requires python interpreter with robot framework installed on your system
+	python --version
+	robot --version
+
+Eclipse / Windows / Preferences / RF / Installed FWs
